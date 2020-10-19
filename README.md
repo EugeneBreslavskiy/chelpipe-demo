@@ -1,6 +1,8 @@
-# vue-three-template
+# chelpipe-demo
 
-> vue.js + three.js template
+> vue.js + three.js demo
+
+> [demo](http://chelpipe-demo.surge.sh/)
 
 ## Build Setup
 
